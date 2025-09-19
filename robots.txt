@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://beloOlímpio.adv.br/sitemap.xml
+
+# Allow important resources
+Allow: /styles.css
+Allow: /script.js
+Allow: /imagens/
+Allow: /favicon*.png
